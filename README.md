@@ -1,5 +1,6 @@
 Este repositório contém a implementação de uma CPU modular de 4 bits desenvolvida no simulador Logisim. O projeto foi estruturado com base na separação rigorosa entre o Caminho de Dados (Datapath) e a Unidade de Controle.
-Aqui está o video para explicação em voz do projeto e execução do funcionamento [![Assistir no YouTube](https://img.shields.io/badge/YouTube-Assistir_Apresentação-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vaOuult0jho)
+Vídeo para explicação em voz do projeto e execução :
+[![Assistir no YouTube](https://img.shields.io/badge/YouTube-Assistir_Apresentação-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vaOuult0jho)
 
 ## 1. Descrição Geral da Arquitetura
 A CPU possui uma arquitetura de 4 bits focada em processamento sequencial. O hardware é composto pelos seguintes blocos principais:
