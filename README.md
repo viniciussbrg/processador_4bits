@@ -71,4 +71,4 @@ Abaixo, a evolução do estado dos registradores a cada ciclo de *clock* (repres
 * **Ciclo 6 (PC = 06):** R2 = `8` (R0 + R1)
 * **Ciclo 7 (PC = 07):** R3 = `D` (Equivalente a 13 em decimal, R1 + R2)
 
-*Nota: Se o programa continuar, o ciclo seguinte (8+13 = 21) causará um **overflow** limitante do hardware, exibindo o valor `5` (`0101` em binário) no display correspondente, pois o 5º bit é descartado pelo barramento de 4 bits.*
+*Nota: Se o programa continuar, o ciclo seguinte (8+13 = 21) causará um **overflow** limitante do hardware, pois com 4 bits só teremos os valores de 0 a 15.
