@@ -50,7 +50,7 @@ O processador opera em um ciclo contínuo de três fases, sincronizado pela bord
 3. Na janela hexadecimal, insira a seguinte sequência de instruções na primeira linha:
    `042 084 0d8 02c 070 084 0d8`
 4. Feche a janela de edição.
-5. Certifique-se de que o pino `CLEAR` está em `0`.
+5. Certifique-se de que o pino `CLEAR` está em `0` e que o Chip Select da ROM está em `1`.
 6. Selecione a ferramenta **Poke** (ícone de mãozinha) no menu superior.
 7. Clique sequencialmente no pino de `CLK` para avançar a execução do programa ciclo a ciclo.
 
