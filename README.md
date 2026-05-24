@@ -41,7 +41,7 @@ O processador opera em um ciclo contínuo de três fases, sincronizado pela bord
 ## 5. Passo a Passo para Abrir o Circuito
 1. Faça o download do software simulador **Logisim** (requer Java instalado).
 2. Clone ou faça o download deste repositório para o seu computador.
-3. Abra o Logisim, vá em `File` > `Open...` e selecione o arquivo do circuito principal (ex: `main.circ`).
+3. Abra o Logisim, vá em `File` > `Open...` e selecione o arquivo do circuito principal (processador4bits.circ).
 4. O circuito principal será carregado. Para visualizar os componentes internos, dê um duplo clique em `ULA`, `UC` ou `BancoReg` na árvore de navegação à esquerda.
 
 ## 6. Como Executar o Programa na ROM
