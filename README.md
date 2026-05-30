@@ -2,7 +2,7 @@ Este repositório contém a implementação de uma CPU modular de 4 bits desenvo
 
 Integrantes: 
 
-•	Eduardo Urbanovicz de Souza – RA: 082230018
+•	Eduardo de Souza Urbanovicz Bastiani  – RA: 082230018
 
 •	Lucas Daiki Honda Kuniyosi – RA: 082230020
 
